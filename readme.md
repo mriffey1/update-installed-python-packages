@@ -1,4 +1,4 @@
-# Updating installed Python packages
+#Mass update installed Python packages
 
 ### This script was created on Windows (modification may be required to run on other systems)
 
